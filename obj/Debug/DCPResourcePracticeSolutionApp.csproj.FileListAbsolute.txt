@@ -1,0 +1,7 @@
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeSolutionApp\bin\Debug\DCPResourcePracticeSolutionApp.exe.config
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeSolutionApp\bin\Debug\DCPResourcePracticeSolutionApp.exe
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeSolutionApp\bin\Debug\DCPResourcePracticeSolutionApp.pdb
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeSolutionApp\obj\Debug\DCPResourcePracticeSolutionApp.csproj.AssemblyReference.cache
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeSolutionApp\obj\Debug\DCPResourcePracticeSolutionApp.csproj.CoreCompileInputs.cache
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeSolutionApp\obj\Debug\DCPResourcePracticeSolutionApp.exe
+C:\Users\AZG_ERP_00\Desktop\Git\DCPResourcePracticeSolutionApp\obj\Debug\DCPResourcePracticeSolutionApp.pdb
